@@ -1,3 +1,10 @@
+## [3.3.1] - Release
+
+#### The Life of the intl_phone_field_extended Fork Begins Here
+
+- Updated the phone number length for several countries.
+- Added const keywords to the example code.
+
 ## [3.3.0] - Release
 
 - Add `magnifierConfiguration` to customize the magnifier.
